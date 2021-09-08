@@ -2,7 +2,12 @@
     "name": "snapdrop-vsc",
     "displayName": "SnapDrop-VSC",
     "description": "A Progressive Web App for local file sharing inside VSCode",
-    "version": "0.0.1",
+    "publisher": "YashGarg",
+    "icon": "logo.png",
+    "repository": {
+        "url": "https://github.com/Yash-Garg/snapdrop-vsc"
+    },
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.60.0"
     },
